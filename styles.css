@@ -1,0 +1,21 @@
+#square {
+  background-color: red;
+  height: 50px;
+  position: absolute;
+  width: 50px;
+}
+
+#game {
+  background-color: #111;
+  height: 350px;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  width: 350px;
+}
+
+button {
+  margin: auto;
+  display: block;
+}
